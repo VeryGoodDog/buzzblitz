@@ -1,4 +1,5 @@
 BuzzBlitz: Get Blitzed with Buzzworthy News
+ 
  Overview
 The BuzzBlitz project aims to develop a dynamic and interactive website dedicated to serving the community. It will serve as a central hub for residents, students, businesses, and visitors by providing essential information, resources, and connections.
 
